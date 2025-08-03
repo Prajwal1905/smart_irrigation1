@@ -1,0 +1,2 @@
+soil_moisture_top,soil_moisture_middle,soil_moisture_bottom,temperature_surface,temperature_subsoil,humidity_surface,humidity_subsoil,ph_level,electrical_conductivity,rainfall_mm,wind_speed,solar_radiation,water_pressure,evapotranspiration,leaf_wetness,nitrogen_content,phosphorus_content,potassium_content,soil_temperature,canopy_temperature,Prediction
+12.0,11.0,10.0,30.0,28.0,70.0,75.0,6.5,0.5,0.0,4.0,600.0,1.2,4.0,20.0,25.0,10.0,15.0,29.0,30.0,Rice Field
